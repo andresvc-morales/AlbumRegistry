@@ -1,0 +1,11 @@
+.btn-primary{
+    background-color: rgb(120, 10, 184);
+    border: rgb(65, 3, 100);
+}
+.btn-primary:hover{
+    background-color: rgb(13, 4, 19);
+    border: rgb(47, 4, 71);
+}
+#tb_add_button{
+    width: 40px; height: 40px;
+}
