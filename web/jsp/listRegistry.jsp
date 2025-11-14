@@ -1,5 +1,5 @@
 <%-- 
-<%--  --%>    Document     : listRegistry.jsp
+<%--   Document     : listRegistry.jsp
     Description  : Displays a grid of album cards showing album information.
                   Each card includes the album cover, name, author, and stock.
                   Also contains modals for editing and deleting albums.
